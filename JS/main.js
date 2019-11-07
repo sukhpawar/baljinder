@@ -106,7 +106,7 @@ let hobbies= `
  <div class="row">
   <div class="col-md-6">
   <div class="hobby">
-   <img src="img/cricket.jpg">
+   <img src="img/cricket.jpg" alt="cricket-img">
    <div class="description">
    I love playing cricket. Playing with
    friends makes me so energetic and afresh

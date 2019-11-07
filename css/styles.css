@@ -241,6 +241,13 @@ width:20%;
     text-align:left;
     font-size:1.5rem;
   }
+  @media(max-width:480px){
+      .description{
+          padding:1rem 0.3rem;
+          font-size:0.9rem;
+          text-align: left;
+      }
+  }
 
   /* contact me */
   
@@ -252,7 +259,7 @@ width:20%;
   .img-dim{
       width:5rem;
       height:5rem;
-      margin-right: 1rem;
+      
 
   }
   .first-contact{
@@ -298,7 +305,7 @@ width:20%;
 }
 .java p{
     font-family: 'Poppins', sans-serif;
-    padding-left:0.5rem;
+    padding-left:1rem;
     width:40%;
     margin:0 auto;
     text-align: left;
